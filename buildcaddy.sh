@@ -1,3 +1,4 @@
+#!/bin/bash
 # 感谢
 # https://github.com/shell-script/naivecaddy/blob/master/naivecaddy.sh
 # https://lhy.life/20211218-naiveproxy/
